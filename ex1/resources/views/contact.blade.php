@@ -5,7 +5,7 @@
         <!-- Page content-->
         <div class="container">
             <div class="text-center mt-5">
-                <h1>Contact Template</h1>
+                <h1>Contact</h1>
                 @isset($data)
                     <p><strong>Name: </strong>{{ $data->name ?? '' }}</p>
                     <p><strong>Phone: </strong>{{ $data->phone }}</p>
