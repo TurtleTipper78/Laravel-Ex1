@@ -17,7 +17,6 @@
                 <div class="form-group">
                         <label for="exampleInputEmail1">Name</label>
                         <input name="name" type="text" class="form-control" id="name" aria-describedby="nameHelp" placeholder="Enter your name">
-                        <small id="nameHelp" class="form-text text-muted">We'll never share your email with anyone else. Exept our advertiser</small>
                     </div>
                     <div class="form-group">
                         <label for="exampleInputEmail1">Phone</label>
@@ -27,7 +26,8 @@
                     <div class="form-group">
                         <label for="exampleInputEmail1">Email address</label>
                         <input name="email" type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
-                        
+                        <br>
+                        <small id="nameHelp" class="form-text text-muted">We'll never share your email with anyone else. Exept our advertiser</small>
                     </div>
                     <br>
                     <div class="form-group">
